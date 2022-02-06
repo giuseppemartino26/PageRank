@@ -1,5 +1,5 @@
 # PageRank
-PageRank implementation with Hadoop and Spark
+PageRank algorithm implementation with Hadoop and Spark. Project done for the "Cloud Computing" course.
 
 ## Run Hadoop
 hadoop jar PageRank-1.0-SNAPSHOT.jar it.unipi.hadoop.MyDriver [input file] [alpha] [iterations]
